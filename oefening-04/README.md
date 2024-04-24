@@ -12,3 +12,6 @@
  - Zoek minstens 3 endpoints op van de API.
 
  *Schrijf hier de 3 endpoints op.*
+https://irail.be/stations
+http://api.weatherapi.com/v1/current.json
+http://api.citybik.es/v2/networks
